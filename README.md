@@ -1,2 +1,7 @@
-# luna-store
-A modern package manager and application store based on electron.js for Linux
+## More Information Coming Soon
+
+Luna Store is currently under active development.  
+More features, documentation, and usage details will be added soon.
+
+For updates and detailed information, please visit:  
+👉 https://luna.herzane.tr
