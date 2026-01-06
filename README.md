@@ -1,7 +1,4 @@
-# 🌙 Luna Store
-
 ![Banner](image-a.png)
-
 ## 🚀 More Information Coming Soon
 
 Luna Store is currently under active development.  
