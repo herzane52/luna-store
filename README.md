@@ -1,6 +1,6 @@
 # 🌙 Luna Store
 
-![Banner](image1.png)
+![Banner](image-a.png)
 
 ## 🚀 More Information Coming Soon
 
@@ -8,9 +8,9 @@ Luna Store is currently under active development.
 More features, documentation, and usage details will be added soon.
 
 
-![image1](image2.png)
-![image2](image3.png)
-![image3](image4.png)
+![image1](image1.png)
+![image2](image2.png)
+![image3](image3.png)
 
 
 ### 📢 Stay Tuned
