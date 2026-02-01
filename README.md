@@ -1,15 +1,10 @@
 ![Banner](image-a.png)
-## 🚀 More Information Coming Soon
-
-Luna Store is currently under active development.  
-More features, documentation, and usage details will be added soon.
 
 
-![image1](image1.png)
-![image2](image2.png)
-![image3](image4.png)
+<h1 align="center">Luna Store (Rust & Tauri)</h1>
+
+> **Note:** Due to the high memory (RAM) usage of the Electron version, the Luna Store project is being actively **migrated to the Rust and Tauri framework.** Development is ongoing, and this repository will become the primary branch once the transition is complete.
 
 
-### 📢 Stay Tuned
-For updates and detailed information, please visit:  
-👉 [luna.herzane.tr](https://luna.herzane.tr)
+- **Website:** [luna.herzane.tr](https://luna.herzane.tr)
+- **Legacy Version (Electron):** [luna-store-electron](https://github.com/herzane52/luna-store-electron)
